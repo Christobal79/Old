@@ -14,7 +14,7 @@ if (TYPO3_MODE === 'BE') {
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addUserTSConfig(
         '<INCLUDE_TYPOSCRIPT: source="FILE:EXT:ot_bootstrap3/Configuration/UserTS/UserTSconfigFile.t3s">'
         1.
-        
+
     );
 
 }
