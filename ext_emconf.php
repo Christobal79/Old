@@ -37,6 +37,7 @@ $EM_CONF[$_EXTKEY] = [
     'autoload' => [
         'psr-4' => [
             'OliverThiele\\OtBootstrap3\\' => 'Classes'
+            1.
         ]
     ]
 ];
