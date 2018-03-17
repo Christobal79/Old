@@ -14,8 +14,13 @@
       <file leaf-file-name="ext_emconf.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ext_emconf.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="195">
               <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+=======
+            <state relative-caret-position="510">
+              <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+>>>>>>> parent of 794c548... ccc
               <folding />
             </state>
           </provider>
@@ -119,12 +124,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521327852038</updated>
+<<<<<<< HEAD
       <workItem from="1521327853328" duration="109000" />
+=======
+      <workItem from="1521327853328" duration="21000" />
+>>>>>>> parent of 794c548... ccc
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="109000" />
+=======
+    <option name="totallyTimeSpent" value="21000" />
+>>>>>>> parent of 794c548... ccc
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1853" height="1109" extended-state="0" />
@@ -171,8 +184,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ext_localconf.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="285">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+=======
+        <state relative-caret-position="510">
+          <caret line="39" column="14" lean-forward="false" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+>>>>>>> parent of 794c548... ccc
           <folding />
         </state>
       </provider>
